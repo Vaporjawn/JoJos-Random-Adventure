@@ -1,4 +1,4 @@
-import { EpisodeNumber } from "../types/EpisodeNumber";
+import { EpisodeNumber } from "../types/episodeNumber";
 import { Season } from "../types/season";
 
 export interface Episode {
