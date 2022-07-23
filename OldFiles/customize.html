@@ -1,0 +1,64 @@
+<<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <title>JoJo's Bizarre Adventure Randomizer</title>
+  </head>
+
+  <body>
+     <link rel="stylesheet" href="style.css">
+     <link rel="icon" type="image/icon" href="favicon.ico"/>
+      <script src="./JavaScript/backgrounds.js"></script>
+      <script src="./JavaScript/initBackgrounds.js"></script>
+      <script src="./JavaScript/episodes.js"></script>
+      <script src="./JavaScript/javascript.js"></script>
+      <script>initBackground();</script>
+      <a href="https://www.youtube.com/watch?v=O2mm23Ia7ho" target="_blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/a/af/JoJo%27s_Bizarre_Adventure_-_Stardust_Crusaders_logo.png" alt="jojo logo"></a>
+
+      <h1><a href="index.html">JoJo's Bizarre Adventure Randomizer</a></h1>
+
+<!-- button that allows the user to interact with the scripts -->
+<form id="form">
+  <label for="part">Choose a Part:</label>
+  <select id="part" name="part" size="10">
+    <option value="1">Phantom Blood</option>
+    <option value="2">Battle Tendency</option>
+    <option value="3">Stardust Crusaders</option>
+    <option value="4">Diamond Is Unbreakable</option>
+    <option value="5">Golden Wind</option>
+    <option value="6">Stone Ocean</option>
+    <option value="7">Steel Ball Run</option>
+    <option value="8">JoJolion</option>
+    <option value="9">Thus Spoke Kishibe Rohan</option>
+    <option value="10">Dead Man's Questions</option>
+  </select>
+  
+  <label for="medium">Anime or Manga:</label>
+  <select id="medium" name="medium" size="4">
+    <option value="anime" name="anime">Anime</option>
+    <option value="manga" name="manga">Manga</option>
+    <option value="both">Both</option>
+    <option value="bio" name="Bio" >Biography</option>
+  </select>
+  <br>
+  <input type="submit" id="button" onClick="customize();"> </input>
+</form>
+
+		<!-- Footer -->
+    <footer id="footer">
+      <div>
+        <ul>
+          <li> <a href = "https://vaporjawn.github.io/" target = "_blank" style="color: white;"> &copy; Victor Williams</a></li>
+            <li><a href="https://twitter.com/Vaporjawn">Twitter</a></li>
+            <li><a href="mailto:vrwilliams719@gmail.com">Email</a></li>
+            <li><a href="https://instagram.com/Vaporjawn">Instagram</a></li>
+            <li><a href="https://github.com/Vaporjawn">Github</a></li>
+        </ul> 
+      </div>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</body>
+</html>
