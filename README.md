@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# JoJo's Bizarre Adventure Randomizer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot](/src/assets/Screenshot.png)
 
 ## Available Scripts
 
@@ -39,8 +39,22 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Support
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Reach out to me at one of the following places!
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Website at <a href="https://vaporjawn.github.io/" target="_blank">`vaporjawn.github.io/`</a>
+- Instagram at <a href="http://Instagram.com/Vaporjawn" target="_blank">`@Vaporjawn`</a>
+
+## Donations
+
+- Support via <a href="https://paypal.me/vaporjawn" target="_blank">PayPal</a> to keep the site up and running.
+
+[![Support via PayPal](./src/assets/PayPal.png)](https://paypal.me/vaporjawn)
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- **[Copyright 2022 ©](https://vaporjawn.github.io/)**
