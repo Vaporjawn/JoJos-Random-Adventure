@@ -2,22 +2,6 @@
 var episodes = [
 //phantom blood
 //battle tendency
-	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-10-new-yorks-jojo-652099",
-	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-11-the-game-master-652101",
-	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-12-the-pillar-man-652103",
-	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-13-jojo-vs-the-ultimate-lifeform-652105",
-	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-14-ultimate-warriors-from-ancient-times-652107",
-	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-15-a-heros-proof-652109",
-	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-16-lisa-lisa-hamon-coach-652111",
-	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-17-the-deeper-plan-652113",
-	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-18-von-stroheims-revenge-652115",
-	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-19-a-race-toward-the-brink-652117",
-	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-20-young-caesar-652119",
-	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-21-a-hundred-against-two-652121",
-	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-22-a-true-warrior-652123",
-	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-23-the-warrior-of-wind-652125",
-	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-24-the-ties-that-bind-jojo-652127",
-	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-25-the-birth-of-a-superbeing-652129",
 	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-26-the-ascendant-one-652131",
 	// stardust crusaders
 	"https://www.crunchyroll.com/jojos-bizarre-adventure/episode-1-the-man-possessed-by-an-evil-spirit-652155",
