@@ -1038,7 +1038,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 21,
-		title: "",
+		title: "Yoshikage Kira Wants a Quiet Life, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1049,7 +1049,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 22,
-		title: "",
+		title: "Yoshikage Kira Wants a Quiet Life, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1060,7 +1060,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 23,
-		title: "",
+		title: "Sheer Heart Attack, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1071,7 +1071,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 24,
-		title: "",
+		title: "Sheer Heart Attack, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1082,7 +1082,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 25,
-		title: "",
+		title: "Atom Heart Father",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1093,7 +1093,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 26,
-		title: "",
+		title: "Janken Boy Is Coming!",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1104,7 +1104,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 27,
-		title: "",
+		title: "I Am an Alien",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1115,7 +1115,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 28,
-		title: "",
+		title: "Highway Star, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1126,7 +1126,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 29,
-		title: "",
+		title: "Highway Star, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1137,7 +1137,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 30,
-		title: "",
+		title: "The Cat Likes Yoshikage Kira",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1148,7 +1148,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 31,
-		title: "",
+		title: "July 15th (Thursday), Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1159,7 +1159,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 32,
-		title: "",
+		title: "July 15th (Thursday), Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1170,7 +1170,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 33,
-		title: "",
+		title: "July 15th (Thursday), Part 3",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1181,7 +1181,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 34,
-		title: "",
+		title: "July 15th (Thursday), Part 4",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1192,7 +1192,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 35,
-		title: "",
+		title: "Another One Bites the Dust, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1203,7 +1203,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 36,
-		title: "",
+		title: "Another One Bites the Dust, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1214,7 +1214,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 37,
-		title: "",
+		title: "Crazy Diamond is Unbreakable, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1225,7 +1225,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 38,
-		title: "",
+		title: "Crazy Diamond is Unbreakable, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1236,7 +1236,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 39,
-		title: "",
+		title: "Goodbye, Morioh Town - The Golden Heart",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1247,7 +1247,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 1,
-		title: "",
+		title: "Gold Experience",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1258,7 +1258,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 2,
-		title: "",
+		title: "Bucciarati is Coming",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1269,7 +1269,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 3,
-		title: "",
+		title: "Meet the Gangster Behind the Wall",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1280,7 +1280,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 4,
-		title: "",
+		title: "Joining the Gang",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1291,7 +1291,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 5,
-		title: "",
+		title: "Find Polpo's Fortune!",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1302,7 +1302,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 6,
-		title: "",
+		title: "Moody Blues' Counterattack",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1313,7 +1313,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 7,
-		title: "",
+		title: "Sex Pistols Appears, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1324,7 +1324,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 8,
-		title: "",
+		title: "Sex Pistols Appears, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1335,7 +1335,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 9,
-		title: "",
+		title: "The First Order from the Boss",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1346,7 +1346,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 10,
-		title: "",
+		title: "The Hitman Team",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1357,7 +1357,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 11,
-		title: "",
+		title: "Narancia's Aerosmith",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1368,7 +1368,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 12,
-		title: "",
+		title: "The Second Order from the Boss",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1379,7 +1379,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 13,
-		title: "",
+		title: "Man in the Mirror and Purple Haze",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1390,7 +1390,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 14,
-		title: "",
+		title: "The Florence-Bound Express Train",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1401,7 +1401,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 15,
-		title: "",
+		title: "The Grateful Dead Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1412,7 +1412,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 16,
-		title: "",
+		title: "The Grateful Dead Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1423,7 +1423,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 17,
-		title: "",
+		title: "Baby Face",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1434,7 +1434,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 18,
-		title: "",
+		title: "Head to Venice!",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1445,7 +1445,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 19,
-		title: "",
+		title: "White Album",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1456,7 +1456,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 20,
-		title: "",
+		title: "The Boss' Last Orders",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1467,7 +1467,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 21,
-		title: "",
+		title: "The Mystery of King Crimson",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1478,7 +1478,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 22,
-		title: "",
+		title: "The 'G' in Guts",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1489,7 +1489,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 23,
-		title: "",
+		title: "Clash and Talking Head",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1500,7 +1500,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 24,
-		title: "",
+		title: "Notorious B.I.G",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1511,7 +1511,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 25,
-		title: "",
+		title: "Spice Girl",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1522,7 +1522,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 26,
-		title: "",
+		title: "A Little Story From the Past ~ My Name Is Doppio",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1533,7 +1533,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 27,
-		title: "",
+		title: "King Crimson vs. Metallica",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1544,7 +1544,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 28,
-		title: "",
+		title: "Beneath a Sky on the Verge of Falling",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1555,7 +1555,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 29,
-		title: "",
+		title: "Destination: Rome! The Colosseum",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1566,7 +1566,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 30,
-		title: "",
+		title: "Green Day and Oasis, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1577,7 +1577,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 31,
-		title: "",
+		title: "Green Day and Oasis, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1588,7 +1588,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 32,
-		title: "",
+		title: "Green Day and Oasis, Part 3",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1599,7 +1599,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 33,
-		title: "",
+		title: "His Name Is Diavolo",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1610,7 +1610,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 34,
-		title: "",
+		title: "The Requiem Quietly Plays, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1621,7 +1621,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 35,
-		title: "",
+		title: "The Requiem Quietly Plays, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1632,7 +1632,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 36,
-		title: "",
+		title: "Diavolo Surfaces",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1643,7 +1643,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 37,
-		title: "",
+		title: "King of Kings",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1654,7 +1654,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 38,
-		title: "",
+		title: "Gold Experience Requiem",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1665,7 +1665,7 @@ const Episodes: Episode[] = [
 	{
 		season: 5,
 		episode: 39,
-		title: "",
+		title: "Sleeping Slaves",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1673,17 +1673,17 @@ const Episodes: Episode[] = [
 		englishAirDate: "",
 		url: "https://www.crunchyroll.com/jojos-bizarre-adventure/episode-39-the-sleeping-slave-783796",
 	},
-	{
-		season: 5,
-		episode: 40,
-		title: "",
-		titleJP: "",
-		titleJPRomaji: "",
-		description: "",
-		originalAirDate: "",
-		englishAirDate: "",
-		url: "",
-	},
+	// {
+	// 	season: 5,
+	// 	episode: ,
+	// 	title: "",
+	// 	titleJP: "",
+	// 	titleJPRomaji: "",
+	// 	description: "",
+	// 	originalAirDate: "",
+	// 	englishAirDate: "",
+	// 	url: "",
+	// },
 
 ];
 
