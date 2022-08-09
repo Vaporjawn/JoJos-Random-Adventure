@@ -554,7 +554,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 25,
-		title: "",
+		title: "'The Fool' Iggy and 'God Geb' N'Doul, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -565,7 +565,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 26,
-		title: "",
+		title: "'The Fool' Iggy and 'God Geb' N'Doul, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -576,7 +576,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 27,
-		title: "",
+		title: "'God Khnum' Oingo and 'God Tohth' Boingo",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -587,7 +587,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 28,
-		title: "",
+		title: "'God Anubis', Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -598,7 +598,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 29,
-		title: "",
+		title: "'God Anubis', Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -609,7 +609,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 30,
-		title: "",
+		title: "'Goddess Bastet' Mariah, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -620,7 +620,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 31,
-		title: "",
+		title: "'Goddess Bastet' Mariah, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -631,7 +631,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 32,
-		title: "",
+		title: "'God Sethan' Alessi, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -642,7 +642,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 33,
-		title: "",
+		title: "'God Sethan' Alessi, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -653,7 +653,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 34,
-		title: "",
+		title: "D'Arby the Gambler, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -664,7 +664,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 35,
-		title: "",
+		title: "D'Arby the Gambler, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -675,7 +675,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 36,
-		title: "",
+		title: "Hol Horse and Boingo, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -686,7 +686,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 37,
-		title: "",
+		title: "Hol Horse and Boingo, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -697,7 +697,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 38,
-		title: "",
+		title: "The Gatekeeper of Hell, Pet Shop, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -708,7 +708,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 39,
-		title: "",
+		title: "The Gatekeeper of Hell, Pet Shop, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -719,7 +719,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 40,
-		title: "",
+		title: "D'Arby the Player, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -730,7 +730,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 41,
-		title: "",
+		title: "D'Arby the Player, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -741,7 +741,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 42,
-		title: "",
+		title: "The Mist of Emptiness, Vanilla Ice, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -752,7 +752,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 43,
-		title: "",
+		title: "The Mist of Emptiness, Vanilla Ice, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -763,7 +763,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 44,
-		title: "",
+		title: "The Mist of Emptiness, Vanilla Ice, Part 3",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -774,7 +774,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 45,
-		title: "",
+		title: "DIO's World, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -785,7 +785,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 46,
-		title: "",
+		title: "DIO's World, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -796,7 +796,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 47,
-		title: "",
+		title: "DIO's World, Part 3",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -807,7 +807,7 @@ const Episodes: Episode[] = [
 	{
 		season: 3,
 		episode: 48,
-		title: "",
+		title: "The Faraway Journey, Farewell Friends",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -818,7 +818,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 1,
-		title: "",
+		title: "Jotaro Kujo! Meets Josuke Higashikata",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -829,7 +829,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 2,
-		title: "",
+		title: "Josuke Higashikata! Meets Angelo",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -840,7 +840,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 3,
-		title: "",
+		title: "The Nijimura Brothers, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -851,7 +851,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 4,
-		title: "",
+		title: "The Nijimura Brothers, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -862,7 +862,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 5,
-		title: "",
+		title: "The Nijimura Brothers, Part 3",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -873,7 +873,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 6,
-		title: "",
+		title: "Koichi Hirose (Echoes)",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -884,7 +884,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 7,
-		title: "",
+		title: "Toshikazu Hazamada (Surface)",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -895,7 +895,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 8,
-		title: "",
+		title: "Yukako Yamagishi Falls in Love, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -906,7 +906,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 9,
-		title: "",
+		title: "Yukako Yamagishi Falls in Love, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -917,7 +917,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 10,
-		title: "",
+		title: "Let's Go Eat Some Italian Food",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -928,7 +928,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 11,
-		title: "",
+		title: "Red Hot Chili Pepper, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -939,7 +939,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 12,
-		title: "",
+		title: "Red Hot Chili Pepper, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -950,7 +950,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 13,
-		title: "",
+		title: "Picked Up Something Bad!",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -961,7 +961,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 14,
-		title: "",
+		title: "Let's Go Play at the Mangaka's House, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -972,7 +972,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 15,
-		title: "",
+		title: "Let's Go Play at the Mangaka's House, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -983,7 +983,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 16,
-		title: "",
+		title: "Let's Go 'Hunting'!",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -994,7 +994,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 17,
-		title: "",
+		title: "Rohan Kishibe's Adventure",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1005,7 +1005,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 18,
-		title: "",
+		title: "Shigechi''s Harvest, Part 1",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1016,7 +1016,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 19,
-		title: "",
+		title: "'Shigechi''s Harvest, Part 2",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
@@ -1027,7 +1027,7 @@ const Episodes: Episode[] = [
 	{
 		season: 4,
 		episode: 20,
-		title: "",
+		title: "Yukako Yamagishi's Vision of Cinderella",
 		titleJP: "",
 		titleJPRomaji: "",
 		description: "",
