@@ -8,7 +8,8 @@
 
 A modern, feature-rich Progressive Web App (PWA) for discovering random JoJo's Bizarre Adventure episodes, manga chapters, and exploring the JoJo universe. Built with React, TypeScript, Material-UI, and Vite.
 
-![Screenshot](/src/assets/Screenshot.png)
+<img width="1727" height="972" alt="Screenshot 2025-10-10 at 19 06 35" src="https://github.com/user-attachments/assets/27dc0337-490a-4ecc-acaa-a930a47bd9cd" />
+
 
 ## ✨ Features
 
