@@ -44,6 +44,15 @@ A modern, feature-rich Progressive Web App (PWA) for discovering random JoJo's B
 
 ## 🚀 Quick Start
 
+### Live Deployments
+
+This project is automatically deployed to two platforms:
+
+- **🌊 Surge.sh**: https://jojos-random-adventure.surge.sh
+- **📄 GitHub Pages**: https://vaporjawn.github.io/JoJos-Random-Adventure/
+
+Both sites are automatically updated on every push to the `main` branch via GitHub Actions.
+
 ### Prerequisites
 - Node.js 18.x or higher
 - npm or yarn package manager
@@ -77,14 +86,30 @@ A modern, feature-rich Progressive Web App (PWA) for discovering random JoJo's B
 
 | Script | Description |
 |--------|-------------|
-| \`npm run dev\` | Start development server with hot module replacement |
-| \`npm run build\` | Build optimized production bundle with TypeScript compilation |
-| \`npm run preview\` | Preview production build locally |
-| \`npm test\` | Run test suite with Vitest |
-| \`npm run test:ui\` | Launch interactive testing UI |
-| \`npm run lint\` | Check code quality with ESLint |
-| \`npm run lint:fix\` | Auto-fix linting issues |
-| \`npm run type-check\` | Validate TypeScript types without compilation |
+| `npm run dev` | Start development server with hot module replacement |
+| `npm run build` | Build optimized production bundle with TypeScript compilation |
+| `npm run preview` | Preview production build locally |
+| `npm test` | Run test suite with Vitest |
+| `npm run test:ui` | Launch interactive testing UI |
+| `npm run lint` | Check code quality with ESLint |
+| `npm run lint:fix` | Auto-fix linting issues |
+| `npm run type-check` | Validate TypeScript types without compilation |
+| `npm run deploy` | Deploy to both Surge.sh and GitHub Pages |
+| `npm run deploy:surge` | Deploy to Surge.sh only |
+| `npm run deploy:gh-pages` | Deploy to GitHub Pages only |
+
+### Deployment
+
+This project features automated deployment to both Surge.sh and GitHub Pages. For detailed deployment instructions, including one-time setup and manual deployment options, see [DEPLOYMENT.md](DEPLOYMENT.md).
+
+**Quick Deploy**: Once configured, simply push to main:
+```bash
+git add .
+git commit -m "Your changes"
+git push origin main
+```
+
+GitHub Actions will automatically build and deploy to both platforms!
 
 ### Project Structure
 
