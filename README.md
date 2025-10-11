@@ -8,6 +8,16 @@
 
 A modern, feature-rich Progressive Web App (PWA) for discovering random JoJo's Bizarre Adventure episodes, manga chapters, and exploring the JoJo universe. Built with React, TypeScript, Material-UI, and Vite.
 
+## 🌐 Live Deployments
+
+**Try it now at either URL:**
+
+🌊 **Surge.sh**: [jojos-random-adventure.surge.sh](https://jojos-random-adventure.surge.sh)
+
+📄 **GitHub Pages**: [vaporjawn.github.io/JoJos-Random-Adventure](https://vaporjawn.github.io/JoJos-Random-Adventure/)
+
+> Both sites are automatically deployed on every push to `main` via GitHub Actions
+
 <img width="1727" height="972" alt="Screenshot 2025-10-10 at 19 06 35" src="https://github.com/user-attachments/assets/27dc0337-490a-4ecc-acaa-a930a47bd9cd" />
 
 
